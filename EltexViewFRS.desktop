@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=EFRSControl
+Exec=bin/EltexViewFRS
+Icon=logo_eltex
+Type=Application
+Categories=GTK;GNOME;Utility;
